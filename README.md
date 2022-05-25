@@ -1,3 +1,2 @@
 # Eloss
-
-Under Construction
+Detailed instruction will be released after paper is accepted. 
