@@ -1,2 +1,4 @@
 # Eloss
-Detailed instruction will be released after paper is accepted. 
+
+mmdet3d/models/losses/xnet_loss.py
+
